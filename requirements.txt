@@ -16,4 +16,4 @@ easyocr>=1.7.0
 ultralytics>=8.3.0
 # Opcional Pro: paddleocr; binario Tesseract-OCR en PATH o TESSERACT_CMD
 pyttsx3>=2.90
-pywin32>=306
+
